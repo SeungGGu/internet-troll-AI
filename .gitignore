@@ -1,0 +1,11 @@
+# 체크포인트 폴더 제외
+checkpoint-*
+
+# .gitignore에 추가
+*.pth
+*.zip
+*.csv
+*.tsv
+*.txt
+logs/
+path/
